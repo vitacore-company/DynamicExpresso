@@ -20,7 +20,7 @@
     <VersionSuffix></VersionSuffix>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>DEKey.snk</AssemblyOriginatorKeyFile>
-    <Version>2.9.8</Version>
+    <Version>2.13.1</Version>
   </PropertyGroup>
 
   <ItemGroup Condition=" $(TargetFramework.StartsWith('netstandard2')) ">
